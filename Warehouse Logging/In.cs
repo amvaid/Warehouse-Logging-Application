@@ -128,7 +128,7 @@ namespace Warehouse_Logging
                     if (c is TextBox)
                         (c as TextBox).Clear();
                     if (c is ComboBox)
-                        (c as ComboBox).Text = "";
+                        (c as ComboBox).Text = " ";
                 }
             }
         }
