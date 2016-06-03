@@ -1,0 +1,3 @@
+[submodule "WarehouseLogging"]
+	path = WarehouseLogging
+	url = https://github.com/amvaid/Warehouse-Logging-Application
