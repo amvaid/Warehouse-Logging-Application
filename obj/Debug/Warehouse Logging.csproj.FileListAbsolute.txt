@@ -1,0 +1,114 @@
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\Warehouse Logging.exe.config
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse Logging.csproj.ResolveComReference.cache
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\Warehouse Logging.exe
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\Warehouse Logging.pdb
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\log4net.dll
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\Zlib.Portable.dll
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\log4net.xml
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\bin\Debug\Zlib.Portable.xml
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse Logging.csprojResolveAssemblyReference.cache
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.Configuration.resources
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.Create.resources
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.EnterScreen.resources
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.ChooseSreen.resources
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.Properties.Resources.resources
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse Logging.csproj.GenerateResource.Cache
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse Logging.exe
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse Logging.pdb
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.In.resources
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.OutScreen.resources
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.ViewNew.resources
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.ViewIn.resources
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.ViewClosed.resources
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\bin\Debug\Warehouse Logging.exe.config
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\obj\Debug\Warehouse Logging.csproj.ResolveComReference.cache
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\obj\Debug\Warehouse Logging.exe
+C:\Users\Aman\Documents\Visual Studio 2015\Projects\Warehouse Logging\obj\Debug\Warehouse Logging.pdb
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\Warehouse Logging.exe.config
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse Logging.csproj.ResolveComReference.cache
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse Logging.exe
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse Logging.pdb
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\Warehouse Logging.exe
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\Warehouse Logging.pdb
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\log4net.dll
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\Zlib.Portable.dll
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\log4net.xml
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\bin\Debug\Zlib.Portable.xml
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse Logging.csprojResolveAssemblyReference.cache
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.Configuration.resources
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.Create.resources
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.EnterScreen.resources
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.ChooseSreen.resources
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.In.resources
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.OutScreen.resources
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.Properties.Resources.resources
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.ViewClosed.resources
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.ViewIn.resources
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.ViewNew.resources
+C:\Users\Aman\WarehouseLogging\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse Logging.csproj.GenerateResource.Cache
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\Warehouse Logging.exe.config
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse Logging.csproj.ResolveComReference.cache
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse Logging.exe
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse Logging.pdb
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\Warehouse Logging.exe
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\Warehouse Logging.pdb
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\log4net.dll
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\Zlib.Portable.dll
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\log4net.xml
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\bin\Debug\Zlib.Portable.xml
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse Logging.csprojResolveAssemblyReference.cache
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.Configuration.resources
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.Create.resources
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.EnterScreen.resources
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.ChooseSreen.resources
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.In.resources
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.OutScreen.resources
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.Properties.Resources.resources
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.ViewClosed.resources
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.ViewIn.resources
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.ViewNew.resources
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse Logging.csproj.GenerateResource.Cache
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.Remarks.resources
+C:\Users\amanv\Desktop\Warehouse Logging\Warehouse Logging\obj\Debug\Warehouse_Logging.Damage.resources
